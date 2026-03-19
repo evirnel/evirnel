@@ -1,6 +1,10 @@
 Hi, I’m Emma!
 - I’m interested in data analytics, sustainability, and using technology to solve environmental challenges.  
-- I’m currently learning advanced data visualization techniques, machine learning, and sustainable metrics analysis as part of my MS in Data Analytics at Tufts University.  
+- I’m currently learning advanced data visualization techniques, machine learning, and sustainable metrics analysis as part of my MS in Data Analytics at Tufts University.
+
+- Pinned is my current projects that I have completed
+
+- 
 - I’m looking to collaborate on projects related to sustainability, interactive dashboards, and AI applications in environmental studies. 
 - How to reach me: Connect with me on LinkedIn!
 - Pronouns: She/Her  
