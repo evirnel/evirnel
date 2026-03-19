@@ -4,7 +4,7 @@ Hi, I’m Emma!
 
 - Pinned is my current projects that I have completed
 
-- 
+
 - I’m looking to collaborate on projects related to sustainability, interactive dashboards, and AI applications in environmental studies. 
 - How to reach me: Connect with me on LinkedIn!
 - Pronouns: She/Her  
